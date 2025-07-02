@@ -1,0 +1,20 @@
+{
+  "name": "مواعيدي - تطبيق إدارة المواعيد والملاحظات",
+  "short_name": "مواعيدي",
+  "description": "تطبيق احترافي لإدارة المواعيد والملاحظات مع نظام إشعارات ذكي",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1A1A2E",
+  "theme_color": "#00BCD4",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "asd.png",
+      "sizes": "512x512"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "ar",
+  "dir": "rtl"
+}
+
